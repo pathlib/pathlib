@@ -1,2 +1,3 @@
-# dev
-bientot un vrais dev .
+# Pathlib
+je suis un developeur debutant je code avec pycharm.
+
