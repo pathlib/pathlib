@@ -1,9 +1,32 @@
-# Pathlib
-Développeur passionné par les technologies Python, 
+# 👋 Bonjour, je suis un développeur Python
 
-############# 🛠️ Technologies & Outils##############
+Passionné par le développement, l’analyse de données et la création d’API modernes en Python et developeur sur la distribution linux. 🚀
 
-![Mon Image](images.png)
-j’utilise régulièrement SQLite3, NumPy et Matplotlib pour concevoir des solutions fiables et analyser des données efficacement. 
-Je travaille principalement avec PyCharm et développe mes compétences en autodidacte afin d’évoluer continuellement dans le domaine du développement logiciel.
+---
 
+## 🛠️ Technologies utilisées
+
+- 🐍 Python
+- 🌐 GitHub
+- 📊 Matplotlib
+- 🎨 Seaborn
+- ⚡ FastAPI
+- 🔢 NumPy
+- 🐼 Pandas
+- 
+---
+## 💡 Domaines qui m’intéressent
+
+- Projet open source
+- developement de logiciel linux
+- Analyse de données
+
+---
+
+## 🎯 Mon objectif
+
+Continuer à progresser en Python et construire des projets modernes et utiles.
+
+---
+
+⭐ Merci pour votre visite !
