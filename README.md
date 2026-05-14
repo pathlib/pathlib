@@ -13,7 +13,7 @@ Passionné par le développement, l’analyse de données et la création d’AP
 - ⚡ FastAPI
 - 🔢 NumPy
 - 🐼 Pandas
-- 
+
 ---
 ## 💡 Domaines qui m’intéressent
 
