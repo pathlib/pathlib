@@ -8,6 +8,7 @@ Passionné par le développement, l’analyse de données et la création d’AP
 
 - 🐍 Python
 - 🌐 GitHub
+-    GIT
 - 📊 Matplotlib
 - 🎨 Seaborn
 - ⚡ FastAPI
