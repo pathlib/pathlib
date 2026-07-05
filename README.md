@@ -20,7 +20,7 @@ Passionné par le développement, l’analyse de données et la création d’AP
 ## 💡 Domaines qui m’intéressent
 
 - Projet open source
-- développement de logiciel linux
+- Développement de logiciel linux
 - Analyse de données
 
 ---
